@@ -1,0 +1,13 @@
+C:\Users\nandini_m1\Documents\FSD\VisualStudioProject\CsharpSimplelearning\CsharpSimplelearning\bin\Debug\netcoreapp3.1\CsharpSimplelearning.exe
+C:\Users\nandini_m1\Documents\FSD\VisualStudioProject\CsharpSimplelearning\CsharpSimplelearning\bin\Debug\netcoreapp3.1\CsharpSimplelearning.deps.json
+C:\Users\nandini_m1\Documents\FSD\VisualStudioProject\CsharpSimplelearning\CsharpSimplelearning\bin\Debug\netcoreapp3.1\CsharpSimplelearning.runtimeconfig.json
+C:\Users\nandini_m1\Documents\FSD\VisualStudioProject\CsharpSimplelearning\CsharpSimplelearning\bin\Debug\netcoreapp3.1\CsharpSimplelearning.runtimeconfig.dev.json
+C:\Users\nandini_m1\Documents\FSD\VisualStudioProject\CsharpSimplelearning\CsharpSimplelearning\bin\Debug\netcoreapp3.1\CsharpSimplelearning.dll
+C:\Users\nandini_m1\Documents\FSD\VisualStudioProject\CsharpSimplelearning\CsharpSimplelearning\bin\Debug\netcoreapp3.1\CsharpSimplelearning.pdb
+C:\Users\nandini_m1\Documents\FSD\VisualStudioProject\CsharpSimplelearning\CsharpSimplelearning\obj\Debug\netcoreapp3.1\CsharpSimplelearning.csprojAssemblyReference.cache
+C:\Users\nandini_m1\Documents\FSD\VisualStudioProject\CsharpSimplelearning\CsharpSimplelearning\obj\Debug\netcoreapp3.1\CsharpSimplelearning.AssemblyInfoInputs.cache
+C:\Users\nandini_m1\Documents\FSD\VisualStudioProject\CsharpSimplelearning\CsharpSimplelearning\obj\Debug\netcoreapp3.1\CsharpSimplelearning.AssemblyInfo.cs
+C:\Users\nandini_m1\Documents\FSD\VisualStudioProject\CsharpSimplelearning\CsharpSimplelearning\obj\Debug\netcoreapp3.1\CsharpSimplelearning.csproj.CoreCompileInputs.cache
+C:\Users\nandini_m1\Documents\FSD\VisualStudioProject\CsharpSimplelearning\CsharpSimplelearning\obj\Debug\netcoreapp3.1\CsharpSimplelearning.dll
+C:\Users\nandini_m1\Documents\FSD\VisualStudioProject\CsharpSimplelearning\CsharpSimplelearning\obj\Debug\netcoreapp3.1\CsharpSimplelearning.pdb
+C:\Users\nandini_m1\Documents\FSD\VisualStudioProject\CsharpSimplelearning\CsharpSimplelearning\obj\Debug\netcoreapp3.1\CsharpSimplelearning.genruntimeconfig.cache
